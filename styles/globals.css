@@ -2132,3 +2132,8 @@ body {
 }
 
 /* All Homes Styles Finish */
+
+/* Others */
+.pagination__list {
+  margin-top: -100px;
+}
